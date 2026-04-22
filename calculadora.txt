@@ -1,1 +1,2 @@
 Calculadora Básica: Suma, Resta y Multiplicación
+Corrección: Soporte para números negativos activado
